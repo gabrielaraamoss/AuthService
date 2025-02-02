@@ -1,0 +1,11 @@
+/Users/gabrielaramos/Proyecto Banco Gye/AuthService/AuthService.Api/AuthService.Domain/bin/Debug/net8.0/AuthService.Domain.deps.json
+/Users/gabrielaramos/Proyecto Banco Gye/AuthService/AuthService.Api/AuthService.Domain/bin/Debug/net8.0/AuthService.Domain.dll
+/Users/gabrielaramos/Proyecto Banco Gye/AuthService/AuthService.Api/AuthService.Domain/bin/Debug/net8.0/AuthService.Domain.pdb
+/Users/gabrielaramos/Proyecto Banco Gye/AuthService/AuthService.Api/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielaramos/Proyecto Banco Gye/AuthService/AuthService.Api/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.AssemblyInfoInputs.cache
+/Users/gabrielaramos/Proyecto Banco Gye/AuthService/AuthService.Api/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.AssemblyInfo.cs
+/Users/gabrielaramos/Proyecto Banco Gye/AuthService/AuthService.Api/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.csproj.CoreCompileInputs.cache
+/Users/gabrielaramos/Proyecto Banco Gye/AuthService/AuthService.Api/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.dll
+/Users/gabrielaramos/Proyecto Banco Gye/AuthService/AuthService.Api/AuthService.Domain/obj/Debug/net8.0/refint/AuthService.Domain.dll
+/Users/gabrielaramos/Proyecto Banco Gye/AuthService/AuthService.Api/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.pdb
+/Users/gabrielaramos/Proyecto Banco Gye/AuthService/AuthService.Api/AuthService.Domain/obj/Debug/net8.0/ref/AuthService.Domain.dll
